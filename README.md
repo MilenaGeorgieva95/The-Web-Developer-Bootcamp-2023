@@ -1,4 +1,4 @@
-# Udemy-The-Web-Developer-Bootcamp-2023
+# The Web Developer Bootcamp 2023 @ Udemy
 Repository with projects from The Web Developer Bootcamp 2023 with instructor - Colt Steele.
 
 ### I’m happy to share that I’ve obtained a new certification: I have completed The Web Developer Bootcamp 2023.
