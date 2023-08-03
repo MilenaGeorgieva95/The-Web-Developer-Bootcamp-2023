@@ -11,6 +11,9 @@
 
 ![PricingPanelMobile](https://github.com/MilenaGeorgieva95/The-Web-Developer-Bootcamp-2023/assets/133628364/ed6b0353-b2dc-4ba6-af96-e0a557b4941f)
 
-![PricingPanelButton](https://github.com/MilenaGeorgieva95/The-Web-Developer-Bootcamp-2023/assets/133628364/065e9649-20ef-4410-9f97-520b0890ca66)
 
-![PricingPanelButton1](https://github.com/MilenaGeorgieva95/The-Web-Developer-Bootcamp-2023/assets/133628364/d7da27ea-3e52-4abb-9d1f-cb5546b4af52)
+![PricingPanelButtons](https://github.com/MilenaGeorgieva95/The-Web-Developer-Bootcamp-2023/assets/133628364/b0b05e30-c151-4c42-bcea-5e5736563319)
+
+![PricingPanelButtons1](https://github.com/MilenaGeorgieva95/The-Web-Developer-Bootcamp-2023/assets/133628364/aaf7fdc5-82b5-48ef-9c33-9ddeddfbf0f1)
+
+![PricingPanelButtons2](https://github.com/MilenaGeorgieva95/The-Web-Developer-Bootcamp-2023/assets/133628364/05faaed9-3b50-45b8-84e1-d1d13dc4d0dc)
