@@ -1,5 +1,6 @@
 let maximum = prompt("Enter the maximum number or type 'q' to quit!");
 let isGameOver = false;
+let attemptsCount = 1;
 
 while (!parseInt(maximum)) {
   if (maximum === "q") {
@@ -15,7 +16,6 @@ if (!isGameOver) {
   const targetNum = Math.floor(Math.random() * maximum) + 1;
 
   let guess = prompt("Enter your first guess or type 'q' to quit!");
-  let attemptsCount = 1;
 
   while (parseInt(guess) !== targetNum) {
     if (guess === "q") {
